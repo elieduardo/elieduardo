@@ -47,6 +47,9 @@ Currently in love with Flutter.
     </a>
 
 </p>
+<br>
+
+![Eduardo Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=elieduardo&show_icons=true&theme=radical)
 
 ## Connect with me
 <p align="left">
