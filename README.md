@@ -51,6 +51,8 @@ Currently in love with Flutter.
 
 ![Eduardo Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=elieduardo&show_icons=true&theme=dark)
 
+- 🔭 App Diva Exclusiva Semijoias [Diva Exclusiva SemiJoias](https://play.google.com/store/apps/details?id=com.divaexclusiva.diva_exclusiva_app)
+
 ## Connect with me
 <p align="left">
     <a href="https://linkedin.com/in/eduardo-eli-5b9421180/" target="blank"><img
