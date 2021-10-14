@@ -53,6 +53,9 @@ Currently in love with Flutter.
 
 ## Projects
 - ⚡ App Diva Exclusiva Semijoias [Google Play](https://play.google.com/store/apps/details?id=com.divaexclusiva.diva_exclusiva_app)
+- 💳 PayFlow [Repository](https://github.com/elieduardo/payFlow)
+- 🎲 DevQuiz [Repository](https://github.com/elieduardo/devQuiz_Flutter)
+- 🌌 MyStarWars [Repository](https://github.com/elieduardo/my-star-wars)
 
 ## Connect with me
 <p align="left">
